@@ -20,6 +20,7 @@ I'm a Junior FrontEnd Developer
 * My Skills - https://yuriy856.github.io/my-portfolio/
 * Skillbridge - https://yuriy856.github.io/Skillbridge/
 * Cubax - https://yuriy856.github.io/cubax/
+* Planet - https://yuriy856.github.io/planet/
 
 ### Socials
 
