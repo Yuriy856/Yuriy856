@@ -19,6 +19,7 @@ Junior FrontEnd Developer
 * Audio Player - https://yuriy856.github.io/audio-player/
 * My Skills - https://yuriy856.github.io/my-portfolio/
 * Skillbridge - https://yuriy856.github.io/Skillbridge/
+* Cubax - https://yuriy856.github.io/cubax/
 
 ### Socials
 
